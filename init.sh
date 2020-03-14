@@ -5,7 +5,7 @@ echo "----- Updating Ubuntu -----"
 sudo apt update -y && sudo apt upgrade -y 
 
 echo "----- Installing Basic Utils -----"
-echo " Curl "
+echo " cURL "
 sudo apt install curl -y
 echo " Vim "
 sudo apt install vim -y
