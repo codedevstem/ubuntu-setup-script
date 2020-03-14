@@ -14,6 +14,7 @@ git config --global core.editor "vim"
 # What is installed
 Running this script will install
 - cURL
+- vim
 - font-firacode
 - starship
 - vscode
