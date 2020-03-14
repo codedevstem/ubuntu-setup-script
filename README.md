@@ -10,3 +10,11 @@ git config --global user.name "name"
 git config --global core.editor "vim"
 
 ```
+
+# What is installed
+Running this script will install
+- cURL
+- font-firacode
+- starship
+- vscode
+- jetbrains-toolbox
